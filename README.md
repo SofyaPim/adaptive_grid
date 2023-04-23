@@ -1,0 +1,1 @@
+# adaptive grid section without media
